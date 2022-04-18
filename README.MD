@@ -2,7 +2,8 @@
 ## API ECOMMERCE COM SPRING E CONTROLE DE ACESSO (ADMIN, MANAGER & USER)
 
 
-### CRIANDO O BANCO MYSQL. Abra seu mysql e crie a seguinte base de dados:
+### CRIANDO O BANCO MYSQL.
+Abra seu mysql e crie a seguinte base de dados:
 * CREATE DATABASE teste;
 * Agora execute o projeto.
 
