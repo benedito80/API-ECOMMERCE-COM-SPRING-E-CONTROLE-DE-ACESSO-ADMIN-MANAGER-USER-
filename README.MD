@@ -6,6 +6,11 @@
 * CREATE DATABASE teste;
 * Agora execute o projeto.
 
+
+<div align="center" style="display: inline_block"><br> 
+<img align="center" alt="Rafa-Csharp" height="400" width="800" src="https://github.com/benedito80/API-ECOMMERCE-COM-SPRING-E-CONTROLE-DE-ACESSO-ADMIN-MANAGER-USER-/blob/main/src/main/img/mysql.png?raw=true"> 
+</div>
+
 ### Vamos agora inser os primeiros usuários para podermos utilizar o sistema.
 ```
 INSERT INTO USER (id,user_name,password,role) 
