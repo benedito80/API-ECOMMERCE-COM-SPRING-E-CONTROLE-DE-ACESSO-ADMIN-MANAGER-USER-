@@ -94,7 +94,7 @@ Obs: a senha acima estão criptografadas, mas é "123456" e o usuário informe u
 
 ```
 
-* Em "localhost:8080/usuarios" realise os (POST & GET) de Usuários
+* Em "localhost:8080/users" realise os (POST & GET) de Usuários
 ```
  {
     "userName": "benedito",
